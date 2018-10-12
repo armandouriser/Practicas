@@ -22,7 +22,7 @@ El reultado se debe desplegar una vez que se presionó el boton de "Resultadp" e
 Se debe realizar la operación de acuerdo a la operacion seleccionada.
 Ambos campos deben contener información para realizar la operación,
 Los datos introducidos no deben ser mayores a tres dígitos.
-El tamaño de letra debe ser de 16px
+El tamaño de letra debe ser de 16px para los campos de netrada y el resultado
 
 **Analisis de Requisitos"
 - 1. Desarrollar una herramienta que permita sunar y restar el conjunto de números reales, con un rango de 4 dígitos.
@@ -61,3 +61,11 @@ El tamaño de letra debe ser de 16px
    - [x] No es contradictorio
    - [x] Se puede comprobar
    - [x] No es ambiguo 
+ - 8. Los campos en la forma solo deben aceptar números 
+   - [x] Único  
+   - [x] No es contradictorio
+   - [x] Se puede comprobar
+   - [x] No es ambiguo 
+ 
+ 
+ 
